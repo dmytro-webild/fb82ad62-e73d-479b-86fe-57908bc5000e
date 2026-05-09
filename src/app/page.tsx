@@ -69,35 +69,35 @@ export default function LandingPage() {
           handle: "@shadow_monarch",
           testimonial: "This system transformed my daily routine into an actual adventure. Leveling up feels addictive.",
           rating: 5,
-          imageSrc: "http://img.b2bpic.net/free-photo/man-portrait-with-blue-lights-visual-effects_23-2149419476.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/man-portrait-with-blue-lights-visual-effects_23-2149419476.jpg?_wi=1",
         },
         {
           name: "Sung-Ah",
           handle: "@mage_c",
           testimonial: "The daily rewards are motivating! The leaderboard competition is fierce.",
           rating: 5,
-          imageSrc: "http://img.b2bpic.net/free-photo/man-with-laptop-doing-thumbs-up-gesture_23-2148022748.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/man-with-laptop-doing-thumbs-up-gesture_23-2148022748.jpg?_wi=1",
         },
         {
           name: "Jinho Y.",
           handle: "@best_friend",
           testimonial: "Finally, a way to visualize my productivity stats like a real RPG.",
           rating: 5,
-          imageSrc: "http://img.b2bpic.net/free-photo/pov-businessman-attending-videocall-meeting-office-using-online-videoconference-talk-consultant-about-financial-strategy-company-employee-chatting-remote-teleconference-close-up_482257-40929.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/pov-businessman-attending-videocall-meeting-office-using-online-videoconference-talk-consultant-about-financial-strategy-company-employee-chatting-remote-teleconference-close-up_482257-40929.jpg?_wi=1",
         },
         {
           name: "Hae-In C.",
           handle: "@s_rank_healer",
           testimonial: "The interface is so intuitive, it feels like I'm playing a game every single day.",
           rating: 5,
-          imageSrc: "http://img.b2bpic.net/free-photo/brunette-girl-giving-thumb-up_23-2147650951.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/brunette-girl-giving-thumb-up_23-2147650951.jpg?_wi=1",
         },
         {
           name: "Thomas A.",
           handle: "@tanker_pro",
           testimonial: "The metrics keep me accountable. Never missing a day now.",
           rating: 5,
-          imageSrc: "http://img.b2bpic.net/free-photo/medium-shot-man-playing-videogame_23-2149349990.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/medium-shot-man-playing-videogame_23-2149349990.jpg?_wi=1",
         },
       ]}
       buttons={[
@@ -290,7 +290,7 @@ export default function LandingPage() {
           quote: "The aesthetic is absolutely unmatched.",
           name: "User 1",
           role: "F-Rank",
-          imageSrc: "http://img.b2bpic.net/free-photo/man-portrait-with-blue-lights-visual-effects_23-2149419476.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/man-portrait-with-blue-lights-visual-effects_23-2149419476.jpg?_wi=2",
         },
         {
           id: "t2",
@@ -298,7 +298,7 @@ export default function LandingPage() {
           quote: "I've leveled up so much faster.",
           name: "User 2",
           role: "E-Rank",
-          imageSrc: "http://img.b2bpic.net/free-photo/man-with-laptop-doing-thumbs-up-gesture_23-2148022748.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/man-with-laptop-doing-thumbs-up-gesture_23-2148022748.jpg?_wi=2",
         },
         {
           id: "t3",
@@ -306,7 +306,7 @@ export default function LandingPage() {
           quote: "Competitive and fun every day.",
           name: "User 3",
           role: "D-Rank",
-          imageSrc: "http://img.b2bpic.net/free-photo/pov-businessman-attending-videocall-meeting-office-using-online-videoconference-talk-consultant-about-financial-strategy-company-employee-chatting-remote-teleconference-close-up_482257-40929.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/pov-businessman-attending-videocall-meeting-office-using-online-videoconference-talk-consultant-about-financial-strategy-company-employee-chatting-remote-teleconference-close-up_482257-40929.jpg?_wi=2",
         },
         {
           id: "t4",
@@ -314,7 +314,7 @@ export default function LandingPage() {
           quote: "The daily stakes really work.",
           name: "User 4",
           role: "C-Rank",
-          imageSrc: "http://img.b2bpic.net/free-photo/brunette-girl-giving-thumb-up_23-2147650951.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/brunette-girl-giving-thumb-up_23-2147650951.jpg?_wi=2",
         },
         {
           id: "t5",
@@ -322,7 +322,7 @@ export default function LandingPage() {
           quote: "I feel like a S-Rank player.",
           name: "User 5",
           role: "B-Rank",
-          imageSrc: "http://img.b2bpic.net/free-photo/medium-shot-man-playing-videogame_23-2149349990.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/medium-shot-man-playing-videogame_23-2149349990.jpg?_wi=2",
         },
       ]}
       title="Voices from the Battlefield"
