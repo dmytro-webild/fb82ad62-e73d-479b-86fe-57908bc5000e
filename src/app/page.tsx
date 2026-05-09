@@ -47,11 +47,11 @@ export default function LandingPage() {
       title="Rise Above the Ordinary"
       description="The system has initialized. Track your daily life as a series of epic quests. Level up your reality, gain XP, and climb the global rankings."
       testimonials={[
-        { name: "Jin-Woo L.", handle: "@shadow_monarch", testimonial: "This system transformed my daily routine into an actual adventure. Leveling up feels addictive.", rating: 5, imageSrc: "http://img.b2bpic.net/free-photo/man-portrait-with-blue-lights-visual-effects_23-2149419476.jpg" },
-        { name: "Sung-Ah", handle: "@mage_c", testimonial: "The daily rewards are motivating! The leaderboard competition is fierce.", rating: 5, imageSrc: "http://img.b2bpic.net/free-photo/man-with-laptop-doing-thumbs-up-gesture_23-2148022748.jpg" },
-        { name: "Jinho Y.", handle: "@best_friend", testimonial: "Finally, a way to visualize my productivity stats like a real RPG.", rating: 5, imageSrc: "http://img.b2bpic.net/free-photo/pov-businessman-attending-videocall-meeting-office-using-online-videoconference-talk-consultant-about-financial-strategy-company-employee-chatting-remote-teleconference-close-up_482257-40929.jpg" },
-        { name: "Hae-In C.", handle: "@s_rank_healer", testimonial: "The interface is so intuitive, it feels like I'm playing a game every single day.", rating: 5, imageSrc: "http://img.b2bpic.net/free-photo/brunette-girl-giving-thumb-up_23-2147650951.jpg" },
-        { name: "Thomas A.", handle: "@tanker_pro", testimonial: "The metrics keep me accountable. Never missing a day now.", rating: 5, imageSrc: "http://img.b2bpic.net/free-photo/medium-shot-man-playing-videogame_23-2149349990.jpg" }
+        { name: "Jin-Woo L.", handle: "@shadow_monarch", testimonial: "This system transformed my daily routine into an actual adventure. Leveling up feels addictive.", rating: 5, imageSrc: "http://img.b2bpic.net/free-photo/man-portrait-with-blue-lights-visual-effects_23-2149419476.jpg?_wi=1" },
+        { name: "Sung-Ah", handle: "@mage_c", testimonial: "The daily rewards are motivating! The leaderboard competition is fierce.", rating: 5, imageSrc: "http://img.b2bpic.net/free-photo/man-with-laptop-doing-thumbs-up-gesture_23-2148022748.jpg?_wi=1" },
+        { name: "Jinho Y.", handle: "@best_friend", testimonial: "Finally, a way to visualize my productivity stats like a real RPG.", rating: 5, imageSrc: "http://img.b2bpic.net/free-photo/pov-businessman-attending-videocall-meeting-office-using-online-videoconference-talk-consultant-about-financial-strategy-company-employee-chatting-remote-teleconference-close-up_482257-40929.jpg?_wi=1" },
+        { name: "Hae-In C.", handle: "@s_rank_healer", testimonial: "The interface is so intuitive, it feels like I'm playing a game every single day.", rating: 5, imageSrc: "http://img.b2bpic.net/free-photo/brunette-girl-giving-thumb-up_23-2147650951.jpg?_wi=1" },
+        { name: "Thomas A.", handle: "@tanker_pro", testimonial: "The metrics keep me accountable. Never missing a day now.", rating: 5, imageSrc: "http://img.b2bpic.net/free-photo/medium-shot-man-playing-videogame_23-2149349990.jpg?_wi=1" }
       ]}
       buttons={[{ text: "Begin Quest", href: "#about" }]}
       imageSrc="http://img.b2bpic.net/free-vector/collection-futuristic-infographic-elements_52683-16699.jpg"
@@ -88,13 +88,13 @@ export default function LandingPage() {
       useInvertedBackground={false}
       features={[
         {
-          id: "1",          title: "Daily Quests",          author: "Automated System",          description: "Dynamic daily task generation based on your goals.",          videoSrc: "https://www.w3schools.com/html/mov_bbb.mp4",          tags: ["Daily", "Routine"]
+          id: "1",          title: "Daily Quests",          author: "Automated System",          description: "Dynamic daily task generation based on your goals.",          videoSrc: "https://www.w3schools.com/html/mov_bbb.mp4?_wi=1",          tags: ["Daily", "Routine"]
         },
         {
-          id: "2",          title: "Global Leaderboards",          author: "Guild Management",          description: "Compete against players worldwide for the top rank.",          videoSrc: "https://www.w3schools.com/html/mov_bbb.mp4",          tags: ["Competitive", "Ranked"]
+          id: "2",          title: "Global Leaderboards",          author: "Guild Management",          description: "Compete against players worldwide for the top rank.",          videoSrc: "https://www.w3schools.com/html/mov_bbb.mp4?_wi=2",          tags: ["Competitive", "Ranked"]
         },
         {
-          id: "3",          title: "Real-time Alerts",          author: "System Admin",          description: "Never miss a quest deadline with push notifications.",          videoSrc: "https://www.w3schools.com/html/mov_bbb.mp4",          tags: ["Urgent", "Alerts"]
+          id: "3",          title: "Real-time Alerts",          author: "System Admin",          description: "Never miss a quest deadline with push notifications.",          videoSrc: "https://www.w3schools.com/html/mov_bbb.mp4?_wi=3",          tags: ["Urgent", "Alerts"]
         }
       ]}
       title="Master Your Quests"
@@ -142,11 +142,11 @@ export default function LandingPage() {
       textboxLayout="split"
       useInvertedBackground={true}
       testimonials={[
-        { id: "t1", title: "Amazing UI", quote: "The aesthetic is absolutely unmatched.", name: "User 1", role: "F-Rank", imageSrc: "http://img.b2bpic.net/free-photo/man-portrait-with-blue-lights-visual-effects_23-2149419476.jpg" },
-        { id: "t2", title: "Best App", quote: "I've leveled up so much faster.", name: "User 2", role: "E-Rank", imageSrc: "http://img.b2bpic.net/free-photo/man-with-laptop-doing-thumbs-up-gesture_23-2148022748.jpg" },
-        { id: "t3", title: "Highly Recommend", quote: "Competitive and fun every day.", name: "User 3", role: "D-Rank", imageSrc: "http://img.b2bpic.net/free-photo/pov-businessman-attending-videocall-meeting-office-using-online-videoconference-talk-consultant-about-financial-strategy-company-employee-chatting-remote-teleconference-close-up_482257-40929.jpg" },
-        { id: "t4", title: "Addictive", quote: "The daily stakes really work.", name: "User 4", role: "C-Rank", imageSrc: "http://img.b2bpic.net/free-photo/brunette-girl-giving-thumb-up_23-2147650951.jpg" },
-        { id: "t5", title: "Top Tier", quote: "I feel like a S-Rank player.", name: "User 5", role: "B-Rank", imageSrc: "http://img.b2bpic.net/free-photo/medium-shot-man-playing-videogame_23-2149349990.jpg" }
+        { id: "t1", title: "Amazing UI", quote: "The aesthetic is absolutely unmatched.", name: "User 1", role: "F-Rank", imageSrc: "http://img.b2bpic.net/free-photo/man-portrait-with-blue-lights-visual-effects_23-2149419476.jpg?_wi=2" },
+        { id: "t2", title: "Best App", quote: "I've leveled up so much faster.", name: "User 2", role: "E-Rank", imageSrc: "http://img.b2bpic.net/free-photo/man-with-laptop-doing-thumbs-up-gesture_23-2148022748.jpg?_wi=2" },
+        { id: "t3", title: "Highly Recommend", quote: "Competitive and fun every day.", name: "User 3", role: "D-Rank", imageSrc: "http://img.b2bpic.net/free-photo/pov-businessman-attending-videocall-meeting-office-using-online-videoconference-talk-consultant-about-financial-strategy-company-employee-chatting-remote-teleconference-close-up_482257-40929.jpg?_wi=2" },
+        { id: "t4", title: "Addictive", quote: "The daily stakes really work.", name: "User 4", role: "C-Rank", imageSrc: "http://img.b2bpic.net/free-photo/brunette-girl-giving-thumb-up_23-2147650951.jpg?_wi=2" },
+        { id: "t5", title: "Top Tier", quote: "I feel like a S-Rank player.", name: "User 5", role: "B-Rank", imageSrc: "http://img.b2bpic.net/free-photo/medium-shot-man-playing-videogame_23-2149349990.jpg?_wi=2" }
       ]}
       title="Voices from the Battlefield"
       description="See what high-ranked players have to say about the Solo Quest experience."
